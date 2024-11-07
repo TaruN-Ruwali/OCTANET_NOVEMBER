@@ -39,15 +39,17 @@
     color: aliceblue;
     /* border-color: maroon; */
     border-radius: 5px;
+    padding-top: 12px;
     width: 150px;
     height: 50px;
+    text-decoration: none;
 }
 
 /* Styling for oniline order section */
 
 .container{
     
-    background: url('Domino\'s\ Banner_sticky.png')no-repeat;
+    background: url('Resources/Domino\'s\ Banner_sticky.png')no-repeat;
     background-position: right;
     background-size: 800px;
     height: 235px;
@@ -63,18 +65,20 @@
     background-color: transparent;
     width: 100%;
     padding-top: 20px;
+    margin-bottom: 20px;
     margin-left: 100px;
 }
 
 .ordrbtn{
     color: white;
     font-weight: bold;
-    border-color: transparent;
     border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
     background-color: green;
     height: 50px;
     width: 150px;
-    margin-top: 30px;   
+    margin-top: 37px;
     margin-left: 170px;
 }
 
